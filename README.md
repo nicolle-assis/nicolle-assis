@@ -35,7 +35,7 @@ My goal is to **build a strong foundation in computer science** and grow into a 
 
 ## 📚 Atualmente estudando | Currently Learning
 
-- Linguagem C (Curso em Vídeo - Gustavo Guanabara)  
+- Linguagem C 
 - Fundamentos da Internet e HTTP/HTTPS  
 - Conceitos de Hardware e Software  
 - Princípios de Sistemas Operacionais  
