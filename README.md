@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Nicolle de Assis | Hi, I'm Nicolle de Assis
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
-💻 **Aprendendo linguagem C e fundamentos da Internet (HTTP)**  
+💻 **Aprendendo linguagem C** 
 🚀 **Em desenvolvimento constante na área de Tecnologia da Informação (TI)**  
 
 ---
@@ -28,26 +28,6 @@ My goal is to **build a strong foundation in computer science** and grow into a 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=internet-explorer&logoColor=white)
-
-</div>
-
----
-
-## 📚 Atualmente estudando | Currently Learning
-
-- Linguagem C 
-- Fundamentos da Internet e HTTP/HTTPS  
-- Conceitos de Hardware e Software  
-- Princípios de Sistemas Operacionais  
-
----
-
-## 📈 Minhas Estatísticas | My Stats
-
-<div align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolle-assis&layout=compact&theme=radical&langs_count=6&cache_seconds=3600&v=2)
-
 
 </div>
 
