@@ -44,8 +44,12 @@ My goal is to **build a strong foundation in computer science** and grow into a 
 
 ## 📈 Minhas Estatísticas | My Stats
 
-![Nicolle's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolle-assis&show_icons=true&theme=radical)
+<div align="center">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolle-assis&layout=compact&theme=radical)
+
+
+</div>
 ---
 
 ## 🌐 Conecte-se comigo | Connect with Me
