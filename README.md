@@ -37,7 +37,7 @@ My goal is to **build a strong foundation in computer science** and grow into a 
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolledeassis2005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolle-assis)
 
 📧 **Email:** nicolledeassis13@gmail.com
 </div>
