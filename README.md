@@ -10,34 +10,40 @@
 </p>
 
 ---
-
 ## 👩‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** pela **Unicesumar**, atualmente no **2º período**, com foco em **desenvolvimento back-end**.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento back-end. Construo minha base técnica por meio da graduação, projetos acadêmicos e prática constante, sempre buscando aplicar a teoria em soluções reais.
 
-Tenho conhecimentos em **linguagem C** e estou em processo de aprendizado em **Python**, aplicando esses conceitos em atividades acadêmicas e projetos práticos. Atualmente, aprofundo meus estudos em **Arquitetura de Computadores** e **Redes de Computadores**, fortalecendo minha base nos fundamentos de TI.
+Minha trajetória profissional começou fora da área de TI, o que contribuiu para o desenvolvimento de habilidades como organização, responsabilidade, trabalho em equipe e aprendizado rápido. Hoje, direciono essa experiência para a tecnologia com disciplina, consistência e vontade real de evoluir.
 
-📍 **Localização:** Itaguaí – RJ
+📍 **Localização:** Itaguaí – RJ / Brasil 
 
 ---
 
-## 🛠️ Tecnologias
+## 🚀 Tecnologias
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+
+
 
 ---
 
 ## 🌐 Conecte-se comigo
+## 📫 Contato
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolle-assis)
-
-📧 **Email:** nicolledeassis13@gmail.com
+<p align="center">
+  <a href="mailto:nicolledeassis13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/nicolle-assis/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 </div>
