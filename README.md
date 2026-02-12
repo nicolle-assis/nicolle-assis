@@ -34,7 +34,6 @@ Minha trajetória profissional começou fora da área de TI, o que contribuiu pa
 ---
 
 ## 🌐 Conecte-se comigo
-## 📫 Contato
 
 <p align="center">
   <a href="mailto:nicolledeassis13@gmail.com">
