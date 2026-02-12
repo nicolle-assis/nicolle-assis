@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <strong><code>Estudante de Análise e Desenvolvimento de Sistemas</code></strong>
+  <strong><code>Backend Developer Student</code></strong>
 </p>
 
 <p align="center">
