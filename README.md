@@ -36,14 +36,6 @@ Minha trajetória profissional começou fora da área de TI, o que contribuiu pa
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolle-assis&layout=compact" />
-</p>
-
----
-
 ## 🌐 Conecte-se comigo
 
 <p align="center">
