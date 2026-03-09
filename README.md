@@ -1,50 +1,42 @@
-<h1 align="center">👩🏿‍💻 Nicolle de Assis</h1>
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hello,%20I'm%20Nicolle%20de%20Assis%F0%9F%91%A9%F0%9F%8F%BF%E2%80%8D%F0%9F%92%BB&fontSize=32&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&animation=twinkling&color=0:000000,50:3B0764,100:A855F7"/>
+</div>
 
-<p align="center">
-  <strong><code>Java Backend Developer Student ☕</code></strong>
-</p>
+###
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="250" />
-</p>
+<p align="left">Brazilian student 🇧🇷  <br><br>Java lover and backend development enthusiast.</p>
 
----
+###
 
-## 👩‍💻 Sobre mim
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"/>
+</div>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend com Java.  
-Construo minha base técnica por meio da graduação, projetos acadêmicos e prática constante, aplicando conceitos como orientação a objetos, boas práticas e organização de código.
-
-Minha trajetória profissional começou fora da área de TI, o que contribuiu para o desenvolvimento de habilidades como organização, responsabilidade, trabalho em equipe e aprendizado rápido. Hoje, direciono essa experiência para a tecnologia com disciplina, consistência e foco em evolução contínua.
-
-📍 **Localização:** Itaguaí – RJ / Brasil  
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Java%20Backend-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Level-Student%20Developer-green?style=for-the-badge"/>
-</p>
-
----
-
-## 🌐 Conecte-se comigo
-
-<p align="center">
-  <a href="mailto:nicolledeassis13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
+###
+<div align="center">
   <a href="https://www.linkedin.com/in/nicolle-assis/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
   </a>
 
-</p>
+  <a href="mailto:nicolledeassis13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nicolle-assis&theme=dracula&hide_border=true" height="150"/>
+</div>
+
+###
+
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=true&animation=twinkling&color=0:000000,50:3B0764,100:A855F7"/>
+</div>
+
+###
