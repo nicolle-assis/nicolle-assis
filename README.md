@@ -21,7 +21,7 @@
       </a>
     </td>
     <td width="60%" align="center" valign="middle">
-      <h3>👤 About me / Sobre mim</h3>
+      <h3> 👩🏾‍💻 About me / Sobre mim</h3>
       <p>
         🇧🇷 Brazilian student — Rio de Janeiro <br>
         ☕ Java lover & backend development enthusiast
