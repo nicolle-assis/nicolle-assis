@@ -3,14 +3,14 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Java+Backend+Developer+in+progress+%F0%9F%9A%80;Brazilian+student+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Java+Backend+Developer+in+progress;Brazilian+student" alt="Typing SVG" />
 </p>
 
 ---
 
 <table>
   <tr>
-    <td width="40%" align="center" valign="top">
+    <td width="40%" align="center" valign="middle">
       <img src="asset/images/character.png" width="320px" alt="character"/>
       <br><br>
       <a href="https://www.linkedin.com/in/nicolle-assis/" target="_blank">
@@ -20,36 +20,23 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
     </td>
-    <td width="60%" valign="top">
-
-### 👤 About me / Sobre mim
-
-🇧🇷 Brazilian student — Rio de Janeiro  
-☕ Java lover & backend development enthusiast  
-
----
-
-### 🛠️ Tech Stack
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git"/>
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicolle-assis&show_icons=true&theme=dracula&hide_border=true&title_color=A855F7&icon_color=A855F7" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolle-assis&layout=compact&theme=dracula&hide_border=true&title_color=A855F7" height="150"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nicolle-assis&theme=dracula&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" height="150"/>
-</div>
-
+    <td width="60%" align="center" valign="middle">
+      <h3>👤 About me / Sobre mim</h3>
+      <p>
+        🇧🇷 Brazilian student — Rio de Janeiro <br>
+        ☕ Java lover & backend development enthusiast
+      </p>
+      <hr/>
+      <h3>🛠️ Tech Stack</h3>
+      <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java"/>
+        &nbsp;
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git"/>
+        &nbsp;
+        <img src="https://skillicons.dev/icons?i=github" height="45" alt="github"/>
+      </div>
+      <br>
+      <img src="https://streak-stats.demolab.com?user=nicolle-assis&theme=dracula&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" height="150"/>
     </td>
   </tr>
 </table>
