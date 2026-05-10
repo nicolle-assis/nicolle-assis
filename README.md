@@ -1,9 +1,9 @@
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hello,%20I'm%20Nicolle%20de%20Assis%20%F0%9F%91%A9%F0%9F%8F%BF%E2%80%8D%F0%9F%92%BB&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&animation=twinkling&color=0:000000,50:3B0764,100:A855F7"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Hello,%20I'm%20Nicolle%20de%20Assis%20%F0%9F%8C%90&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&animation=twinkling&color=0:000000,50:3B0764,100:A855F7"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Java+Backend+Developer+in+progress;Brazilian+student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=500&color=A855F7&center=true&vCenter=true&width=500&lines=Tech+Student;Networking;Infrastructure;Linux" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,20 +21,21 @@
       </a>
     </td>
     <td width="60%" align="center" valign="middle">
-      <h3> 👩🏾‍💻 About me / Sobre mim</h3>
+      <h3> 🌐 About me / Sobre mim </h3>
       <p>
-        🇧🇷 Brazilian student — Rio de Janeiro <br>
-        ☕ Java lover & backend development enthusiast
+       🇧🇷 Brazilian IT student — Rio de Janeiro <br>
+🌐 Focused on networking, infrastructure & Linux <br>
+📡 Building practical labs with Cisco Packet Tracer
       </p>
       <hr/>
       <h3>🛠️ Tech Stack</h3>
-      <div>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java"/>
-        &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git"/>
-        &nbsp;
-        <img src="https://skillicons.dev/icons?i=github" height="45" alt="github"/>
-      </div>
+   <div>
+  <img src="https://skillicons.dev/icons?i=python,git,github,linux" height="45" />
+  
+  &nbsp;
+  
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cisco.svg" height="40" alt="cisco" style="vertical-align: middle;"/>
+</div>
       <br>
       <img src="https://streak-stats.demolab.com?user=nicolle-assis&theme=dracula&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" height="150"/>
     </td>
